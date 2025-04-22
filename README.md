@@ -1,2 +1,2 @@
 "# test-tags" 
-Updated the release to v1.1.0
+Updated the release to v2.0.0
